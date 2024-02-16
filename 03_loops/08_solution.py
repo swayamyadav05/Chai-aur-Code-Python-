@@ -1,3 +1,5 @@
+# Prime Number Checker
+
 number = int(input("Enter a number to check if it is prime or not: "))
 
 is_prime = True

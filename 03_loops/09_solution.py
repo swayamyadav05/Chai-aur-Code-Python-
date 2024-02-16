@@ -1,3 +1,5 @@
+# List Uniquness Checker
+
 items = ["apple", "banana", "orange", "apple", "mango"]
 
 unique_items = set()

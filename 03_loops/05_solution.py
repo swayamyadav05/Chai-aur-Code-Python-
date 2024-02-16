@@ -1,3 +1,5 @@
+# Find the Non-Repeated Character
+
 input_str = "teeteracdac"
 
 for char in input_str:

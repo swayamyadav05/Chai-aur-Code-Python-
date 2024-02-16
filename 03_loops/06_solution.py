@@ -1,3 +1,5 @@
+# Factorial Calculator
+
 number = int(input("Enter number for it's factorial: "))
 number1 = number
 
