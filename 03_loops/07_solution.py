@@ -7,4 +7,3 @@ while True:
         break
     else:
         print("Invalid number, try again.")
-        
