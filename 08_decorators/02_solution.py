@@ -13,7 +13,7 @@ def debug(func):
 @debug
 def hello():
     print("Hello")
-
+    
 
 @debug
 def greet(name, greeting="Hello"):
